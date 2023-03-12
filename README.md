@@ -27,4 +27,4 @@
 
 <hr>
 
-자세한 내용은 []() 참고.
+자세한 내용은 [Upgrade_Dino.cpp](https://github.com/Tigerfriend1/Upgrade_Dino_Game/blob/main/Upgrade_Dino.cpp) 와 [결과보고서](https://github.com/Tigerfriend1/Upgrade_Dino_Game/blob/main/doc/upgradeDiano_Report.pdf) 참고.
