@@ -1,11 +1,17 @@
 # 🦖Upgrade_Dino_Game
 > 개발 기간: 2021.03.19 ~ 2021.06.30 <br>
 > 사용 언어: C++ <br>
+> 개발 환경: Window <br>
 > 개발 인원: 3명 <br>
 >    - 김태경 : 팀장, 발표, 공룡모드 제작
 >    - 기태욱 : ppt제작, 소니모드 제작
 >    - 박남영 : ppt자료제작, 마리오모드 제작
 
+### 실행 방법
+* Window 콘솔창에서 [Upgrade_Dino.cpp](https://github.com/Tigerfriend1/Upgrade_Dino_Game/blob/main/Upgrade_Dino.cpp) 실행
+```
+$ gcc Upgrade_Dino.cpp
+```
 
 ### 목표
 - c언어와 c++언어를 통해 라이브러리 사용을 익히고, class와 객체에 대해 이해한다.
@@ -24,4 +30,4 @@
 
 <hr>
 
-자세한 내용은 []()를 참고해주세요.
+자세한 내용은 []() 참고.
