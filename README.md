@@ -3,15 +3,12 @@
 > 사용 언어: C++ <br>
 > 개발 환경: Window <br>
 > 개발 인원: 3명 <br>
->    - 김태경 : 팀장, 발표, 공룡모드 제작
+>    - 김태경(팀장) : 발표, 공룡모드(Dinoclass.cpp), 메인(main.cpp) 및 선택모드(select.cpp) 제작
 >    - 기태욱 : ppt제작, 소니모드 제작
 >    - 박남영 : ppt자료제작, 마리오모드 제작
 
 ### 실행 방법
-* Window 콘솔창에서 [Upgrade_Dino.cpp](https://github.com/Tigerfriend1/Upgrade_Dino_Game/blob/main/Upgrade_Dino.cpp) 실행
-```
-$ gcc Upgrade_Dino.cpp
-```
+* [Upgrade_Dino.exe](https://github.com/Tigerfriend1/Upgrade_Dino_Game/blob/main/Upgrade_Dino.exe) 실행
 
 ### 목표
 - c언어와 c++언어를 통해 라이브러리 사용을 익히고, class와 객체에 대해 이해한다.
